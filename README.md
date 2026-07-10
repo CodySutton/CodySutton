@@ -3,6 +3,8 @@ I'm Cody Sutton an aspiring Front-End Developer with 18+ months of self-directed
 
 # Tech Stack
 Javascript Typescript HTML5 CSS3 React.js Python Node.js
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/c7d70c1f-d089-4472-b2e4-5ce9c704abef" />
+
 
 # How to Reach me:
 LinkedIn -> CodySutton1
