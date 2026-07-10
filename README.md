@@ -11,8 +11,10 @@ I'm Cody Sutton an aspiring Front-End Developer with 18+ months of self-directed
 <img width= '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
           
 # How to Reach me:
-LinkedIn -> CodySutton1
-Email -> CodySutton002@gmail.com
+LinkedIn = CodySutton1,
+
+Email = CodySutton002@gmail.com
+
 
 
 
