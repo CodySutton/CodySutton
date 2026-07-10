@@ -4,7 +4,7 @@ I'm Cody Sutton an aspiring Front-End Developer with 18+ months of self-directed
 # Tech Stack
 Javascript Typescript HTML5 CSS3 React.js Python Node.js
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img <style> width= '10px' </style> src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
           
           
