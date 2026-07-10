@@ -2,7 +2,6 @@
 I'm Cody Sutton an aspiring Front-End Developer with 18+ months of self-directed learning and hands-on experience building responsive web applications using HTML, CSS, JavaScript, and React. 
 
 # Tech Stack
-Javascript Typescript HTML5 CSS3 React.js Python Node.js
 <img width= '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width= '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img width= '50px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
